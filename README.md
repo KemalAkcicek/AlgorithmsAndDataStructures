@@ -117,7 +117,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 - Design Circular Deque  
 - Number of Recent Calls  
 
----
+
 
 ## Dynamic Programming
 
@@ -125,8 +125,3 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## ✅ TODO
-
-- [ ] Add solution explanations (optional)  
-- [ ] Add time & space complexity for each solution (optional)  
-- [ ] Add links to LeetCode problems (optional)  
