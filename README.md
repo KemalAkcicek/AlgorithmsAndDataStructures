@@ -1,10 +1,10 @@
-# Data Structures and Algorithms Practice
+# 🧠 Data Structures and Algorithms Practice
 
-This repository contains my solutions to algorithm and data structure problems, categorized by topic. Problems are mostly from LeetCode and solved using Java (or another language you used). I update this repository regularly as I continue to learn and practice.
+This repository contains my solutions to algorithm and data structure problems, mostly from LeetCode. The solutions are grouped by topic and regularly updated as I continue my learning journey.
 
 ---
 
-## Array
+## 📊 Array
 
 - Remove Duplicates from Sorted Array  
 - Remove Element  
@@ -16,10 +16,11 @@ This repository contains my solutions to algorithm and data structure problems, 
 - Relative Sort Array  
 - Squares of a Sorted Array  
 - Sort Colors  
+- Find the Duplicate Number  
 
 ---
 
-## Linked List
+## 🔗 Linked List
 
 - Add Two Numbers  
 - Remove Nth Node From End of List  
@@ -36,7 +37,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## Binary Tree / Tree
+## 🌳 Tree / Binary Tree
 
 - Same Tree  
 - Symmetric Tree  
@@ -47,7 +48,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## Graph / DFS - BFS
+## 🌐 Graph (DFS / BFS)
 
 - Number of Islands  
 - Number of Provinces  
@@ -57,7 +58,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## Stack & Queue
+## 🗃️ Stack & Queue
 
 - Valid Parentheses  
 - Min Stack  
@@ -65,17 +66,19 @@ This repository contains my solutions to algorithm and data structure problems, 
 - Implement Queue using Stacks  
 - Number of Recent Calls  
 - Design Circular Deque  
+- Simplify Path  
+- Baseball Game  
 
 ---
 
-## Heap / Priority Queue
+## 🧮 Heap / Priority Queue
 
 - Find Median from Data Stream  
 - K Closest Points to Origin  
 
 ---
 
-## Binary Search
+## 🔍 Binary Search
 
 - Search in Rotated Sorted Array  
 - Find Peak Element  
@@ -84,7 +87,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## Sliding Window / Two Pointers
+## 🚪 Sliding Window / Two Pointers
 
 - Longest Substring Without Repeating Characters  
 - Remove Nth Node From End of List  
@@ -93,7 +96,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## Math / Logic
+## ➗ Math / Logic
 
 - Roman to Integer  
 - Plus One  
@@ -103,7 +106,7 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## String
+## 📝 String
 
 - Find the Index of the First Occurrence in a String  
 - Reverse Words in a String  
@@ -111,17 +114,21 @@ This repository contains my solutions to algorithm and data structure problems, 
 
 ---
 
-## Design
+## 🧰 Design
 
 - Encode and Decode TinyURL  
 - Design Circular Deque  
 - Number of Recent Calls  
 
+---
 
-
-## Dynamic Programming
+## 💡 Dynamic Programming
 
 - House Robber III  
 
 ---
 
+
+**Total solved:** 64 problems ✅  
+**Language:** Java  
+**Platform:** LeetCode  
